@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tuck642
 - 👀 I’m interested in Discord bots
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me Tuck#1234 on dsicord
+- 📫 How to reach me Tuck#4321 on dsicord
